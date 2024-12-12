@@ -1,6 +1,6 @@
 # Домашнее задание к занятию "7. Работа с HTTP" (frontend)
 
-[![Build status](https://ci.appveyor.com/api/projects/status/x7lgvkd305ma3poa?svg=true)](https://ci.appveyor.com/project/Professor-Severus-Snape/ahj-http-frontend)
+[![Build status](https://ci.appveyor.com/api/projects/status/x7lgvkd305ma3poa?svg=true)](https://ci.appveyor.com/project/idontknow3210/ahj-http-frontend)
 
 ### Запуск сервера:
 
